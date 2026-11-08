@@ -2,12 +2,12 @@
   <img src="https://github.com/userharbor/userharbor/raw/master/docs/assets/logo-full.png" alt="UserHarbor">
 </picture>
 
-# FastHTML Starter
-
 [![License: MIT](https://img.shields.io/github/license/userharbor/fasthtml-starter)](LICENSE)
 [![HTMX](https://img.shields.io/badge/HTMX-3366CC?logo=htmx&logoColor=white)](https://github.com/bigskysoftware/htmx)
-[![FastHTML](https://img.shields.io/badge/FastHTML-6554C0)](https://github.com/AnswerDotAI/fasthtml)
-[![Basecoat](https://img.shields.io/badge/Basecoat-18181B)](https://github.com/hunvreus/basecoat)
+[![FastHTML](https://img.shields.io/badge/framework-FastHTML-7854F7)](https://github.com/AnswerDotAI/fasthtml)
+[![Basecoat](https://img.shields.io/badge/UI-Basecoat-18181B)](https://basecoatui.com/)
+[![Code style: black](https://img.shields.io/badge/code%20style-black-black)](https://github.com/psf/black)
+[![Linting: Ruff](https://img.shields.io/badge/linting-Ruff-black?logo=ruff&logoColor=black)](https://github.com/astral-sh/ruff)
 [![uv](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/astral-sh/uv/main/assets/badge/v0.json)](https://github.com/astral-sh/uv)
 
 https://github.com/user-attachments/assets/1bcafdda-fe51-4bb3-a3e7-cb1302952d13
