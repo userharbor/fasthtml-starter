@@ -18,6 +18,8 @@ A ready-to-use template showing how easily you can build a [Hypermedia-Driven Ap
 
 Includes registration, email verification, login, password recovery, a paginated user list, user profiles, password changes, and account deletion.
 
+For a step-by-step guide, follow the [FastHTML Application with UserHarbor tutorial](https://userharbor.github.io/tutorials/fasthtml-application/).
+
 ## Run locally
 
 Use this repository as a template, then install dependencies with [uv](https://github.com/astral-sh/uv):
