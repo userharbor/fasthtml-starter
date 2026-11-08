@@ -5,9 +5,9 @@
 # FastHTML Starter
 
 [![License: MIT](https://img.shields.io/github/license/userharbor/fasthtml-starter)](LICENSE)
-[![Python 3.14+](https://img.shields.io/badge/python-3.14%2B-blue?logo=python&logoColor=white)](https://github.com/python/cpython)
 [![HTMX](https://img.shields.io/badge/HTMX-3366CC?logo=htmx&logoColor=white)](https://github.com/bigskysoftware/htmx)
 [![FastHTML](https://img.shields.io/badge/FastHTML-6554C0)](https://github.com/AnswerDotAI/fasthtml)
+[![Basecoat](https://img.shields.io/badge/Basecoat-18181B)](https://github.com/hunvreus/basecoat)
 [![uv](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/astral-sh/uv/main/assets/badge/v0.json)](https://github.com/astral-sh/uv)
 
 [▶ Watch the presentation](presentation.mp4)
