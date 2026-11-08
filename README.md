@@ -1,6 +1,8 @@
-<picture>
-  <img src="https://github.com/userharbor/userharbor/raw/master/docs/assets/logo-full.png" alt="UserHarbor">
-</picture>
+<a href="https://github.com/userharbor/userharbor">
+  <picture>
+    <img src="https://github.com/userharbor/userharbor/raw/master/docs/assets/logo-full.png" alt="UserHarbor">
+  </picture>
+</a>
 
 [![License: MIT](https://img.shields.io/github/license/userharbor/fasthtml-starter)](LICENSE)
 [![HTMX](https://img.shields.io/badge/HTMX-3366CC?logo=htmx&logoColor=white)](https://github.com/bigskysoftware/htmx)
