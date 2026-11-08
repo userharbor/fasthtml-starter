@@ -10,7 +10,7 @@
 [![Basecoat](https://img.shields.io/badge/Basecoat-18181B)](https://github.com/hunvreus/basecoat)
 [![uv](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/astral-sh/uv/main/assets/badge/v0.json)](https://github.com/astral-sh/uv)
 
-[▶ Watch the presentation](presentation.mp4)
+https://github.com/user-attachments/assets/1bcafdda-fe51-4bb3-a3e7-cb1302952d13
 
 A ready-to-use template showing how easily you can build a [Hypermedia-Driven Application (HDA)](https://htmx.org/essays/hypermedia-driven-applications/) with [FastHTML](https://github.com/AnswerDotAI/fasthtml), [HTMX](https://github.com/bigskysoftware/htmx), and [UserHarbor](https://github.com/userharbor/userharbor) for authentication, authorization, and user management.
 
