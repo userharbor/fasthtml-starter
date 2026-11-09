@@ -151,27 +151,6 @@ wheels = [
 ]
 
 [[package]]
-name = "dashboard"
-version = "0.1.0"
-source = { virtual = "." }
-dependencies = [
-    { name = "fasthtml-basecoatui" },
-    { name = "fasthtml-lucide" },
-    { name = "fasthtml-tailwindcss", extra = ["dev"] },
-    { name = "python-fasthtml" },
-    { name = "userharbor", extra = ["smtp", "sqlalchemy"] },
-]
-
-[package.metadata]
-requires-dist = [
-    { name = "fasthtml-basecoatui", specifier = ">=1.1.0" },
-    { name = "fasthtml-lucide", specifier = ">=1.70.0" },
-    { name = "fasthtml-tailwindcss", extras = ["dev"], specifier = ">=4.3.5" },
-    { name = "python-fasthtml", specifier = ">=0.14.13" },
-    { name = "userharbor", extras = ["sqlalchemy", "smtp"], specifier = ">=0.10.1" },
-]
-
-[[package]]
 name = "fastcore"
 version = "2.2.33"
 source = { registry = "https://pypi.org/simple" }
@@ -203,6 +182,27 @@ dependencies = [
 sdist = { url = "https://files.pythonhosted.org/packages/5b/b7/ce2d6ade5b20b428f9e3256c4009847e99fbcadccced3ddf01b3aeabe16b/fasthtml_lucide-1.70.0.tar.gz", hash = "sha256:a2b6bf7c720cdc511a93a55fde2b96de5d09dacdd310afa1fbc35b46987e7e57", size = 178548, upload-time = "2026-11-06T06:34:14.862Z" }
 wheels = [
     { url = "https://files.pythonhosted.org/packages/63/52/04ce823144d0454d971551b2f2e02355e22b4e123fb4ca9e017b40572025/fasthtml_lucide-1.70.0-py3-none-any.whl", hash = "sha256:842c417478be5343b1e6f9cd8859345b1e898e77f3d3827afc4d99b2fb230561", size = 1104309, upload-time = "2026-11-06T06:34:13.464Z" },
+]
+
+[[package]]
+name = "fasthtml-starter"
+version = "0.1.0"
+source = { virtual = "." }
+dependencies = [
+    { name = "fasthtml-basecoatui" },
+    { name = "fasthtml-lucide" },
+    { name = "fasthtml-tailwindcss", extra = ["dev"] },
+    { name = "python-fasthtml" },
+    { name = "userharbor", extra = ["smtp", "sqlalchemy"] },
+]
+
+[package.metadata]
+requires-dist = [
+    { name = "fasthtml-basecoatui", specifier = ">=1.1.0" },
+    { name = "fasthtml-lucide", specifier = ">=1.70.0" },
+    { name = "fasthtml-tailwindcss", extras = ["dev"], specifier = ">=4.3.5" },
+    { name = "python-fasthtml", specifier = ">=0.14.13" },
+    { name = "userharbor", extras = ["sqlalchemy", "smtp"], specifier = ">=0.10.1" },
 ]
 
 [[package]]

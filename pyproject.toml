@@ -1,9 +1,10 @@
 [project]
-name = "dashboard"
+name = "fasthtml-starter"
 version = "0.1.0"
-description = "Add your description here"
+description = "A ready-to-use hypermedia-driven application starter built with FastHTML, HTMX, Basecoat, and UserHarbor for authentication and user management."
 readme = "README.md"
 requires-python = ">=3.14"
+authors = [{ name = "SpaceShaman", email = "spaceshaman@tuta.io" }]
 dependencies = [
   "fasthtml-basecoatui>=1.1.0",
   "fasthtml-lucide>=1.70.0",
